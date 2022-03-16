@@ -1,0 +1,74 @@
+body {
+    /* color: #292A50;
+    color: #14153D; */
+    background-color: black;
+
+}
+
+#tribute {
+    text-align: center;
+    color: white;
+}
+
+#tribute-caption {
+    text-align: center;
+    color: white;
+    font-style: oblique;
+}
+
+#image-content {
+    width: 360px;
+    height: 360px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#caption {
+    text-align: center;
+    color: white;
+}
+
+article {
+    text-align: center;
+    text-align: justify;
+    text-justify: inter-word;
+    color: white;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+#history {
+    color: white;
+    text-align: center;
+}
+
+#char-quote {
+    padding-left: 9%;
+    color: white;
+}
+
+footer {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    text-align: center;
+    color: white;
+}
+
+a:visited {
+    color: #F9B234;
+}
+
+a.highlight:hover {
+    color: #808080;
+    font-size: 24px;
+}
